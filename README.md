@@ -1,5 +1,5 @@
 #Local repo
-git commit / --amend
+git commit / --amend\n
 git branch /-f
 git merge
 git rebase /-i
